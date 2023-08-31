@@ -1,7 +1,0 @@
-*.asmx
-*.asmX language=/syntax/.tmLanguage
-*.asmX linguist-language=asm
-*.asmX linguist-detectable=true
-*.js linguist-detectable=false
-*.ts linguist-detectable=false
-*.bat linguist-detectable=false
